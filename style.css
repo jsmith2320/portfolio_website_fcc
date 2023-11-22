@@ -6,7 +6,7 @@
 /* hero background image */
 .bgimage {
     height:100vh;
-    background: url('images/heroImage.jpeg');
+    background: url('images/Background.png');
     background-size:cover;
     position:relative;
 }
@@ -37,6 +37,7 @@
 /* about section image css */
 .imageAboutPage {
     width: 100%;
+    
 }
 
 /* services section css */
